@@ -1,0 +1,12 @@
+Real Estate Manager:
+Description:
+Real Estate Manager in an app where you can find the best way & direction how to make best policy for your property, land, different types of techniques is given into the app, direct it according to your choice. 
+
+Features:
+•	Fully research based application for making best policy for real estate managemenet.
+•	The Research results on How to use real estate techniques for your benefits.
+•	Fully Different User Interface Designed keeping in focus point of view of Niche (Target) Market.
+•	 Live Tiles(Locally & Remotely)
+•	Searching feature.
+•	Fully Unique Branding (Unique Logo Designing & Graphics Designing).
+•	Refresh Every Page of App.
